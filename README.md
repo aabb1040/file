@@ -13,7 +13,7 @@ func testLaunch() throws {
   
     // Insert steps here to perform after app launch but before taking a screenshot,
     // such as logging into a test account or navigating somewhere in the app
-    // There is a calculation formula test-ind-api=fyinformation=cc make an attempt
+    // There is a calculation formula 11111 make an attempt
   
     let attachment = XCTAttachment(screenshot: app.screenshot())
     attachment.name = "Launch Screen"
